@@ -37,7 +37,8 @@ digit_recognition_gru_model.keras
 🔹 2. Evaluar el modelo
 python evaluate_model.py
 
-🔹 3. Probar el modelo en vivo
+🔹 3. Probar el modelo en vivo este puede hacerse sin los demas ya que el modelo entrenado ya esta en el repositorio
+
 python live_predict.py
 
 
