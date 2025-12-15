@@ -9,8 +9,6 @@ Para ejecutar reconocimientoDeNumeros.py, necesitas el siguiente dataset:
 👉 Audio MNIST Dataset:
 https://www.kaggle.com/datasets/sripaadsrinivasan/audio-mnist/data
 
-Si no puedes descargarlo, el proyecto ya incluye todos los archivos necesarios para entrenar y evaluar el modelo.
-
 💾 Archivos generados y guardados
 
 Durante la fase de preprocesamiento, el sistema guarda automáticamente los siguientes archivos:
@@ -23,8 +21,6 @@ X_test.npy
 y_test.npy
 digit_recognition_gru_model.keras
 
-
-Estos archivos ya están incluidos en este repositorio.
 
 🧠 Entrenamiento, Evaluación y Pruebas
 
